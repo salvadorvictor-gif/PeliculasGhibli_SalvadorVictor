@@ -1,0 +1,60 @@
+@import url("https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap");
+
+body {
+    text-align: center;
+    font: 500;
+}
+
+
+.card {
+    margin: 1em auto;
+}
+
+.list-group-item {
+    margin-top: 1px;
+    font-size: 0.8em;
+}
+
+section {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    justify-content: center;
+
+}
+
+.text-bg-dark {
+    display: flex;
+    font-size: 2rem;
+    font-family: "Plus Jakarta Sans", sans-serif;
+}
+
+.text-bg-dark img {
+    align-items: right;
+    width: 1em;
+    height: 1.1em;
+    margin-top: 7px;
+    margin-left: 20px;
+}
+
+.text-bg-dark h2 {
+
+    margin-top: 5px;
+}
+
+footer {
+
+    margin-top: 3em;
+}
+
+.list-group {
+    display: flex;
+}
+
+li {
+    display: flex;
+}
+
+.puntuacion {
+    font-style: italic;
+}
