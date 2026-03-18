@@ -16,9 +16,9 @@ body {
 }
 
 section {
+    margin-top: 5.6em;
     display: flex;
     flex-wrap: wrap;
-    margin-top: 5.6em;
     gap: 1rem;
     justify-content: center;
 
@@ -28,6 +28,7 @@ section {
     display: flex;
     font-size: 2rem;
     font-family: "Plus Jakarta Sans", sans-serif;
+
 }
 
 .text-bg-dark img {
